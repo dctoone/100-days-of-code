@@ -19,8 +19,16 @@
 
 ### Day 3: 3rd June 2020 
 
-**Today's Progress**: Finished the Applied Visual Design on FreeCodeCamp and started the Applied Accessibility
+**Today's Progress**: Finished Applied Visual Design on FreeCodeCamp and started the Applied Accessibility
 
 **Thoughts**: CSS animation is cool, the possibilities are endless
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
+
+### Day 4: 4th June 2020 
+
+**Today's Progress**: Finished Applied Accessibility on FreeCodeCamp
+
+**Thoughts**: Interesting tweaks to make the web accessible to all
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
