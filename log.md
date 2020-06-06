@@ -32,3 +32,11 @@
 **Thoughts**: Interesting tweaks to make the web accessible to all
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
+
+### Day 5: 6th June 2020 
+
+**Today's Progress**: Finished Responsive Web Design Principles and started CSS Flexbox on FreeCodeCamp
+
+**Thoughts**: That small module is so important in todays world with all the different sized devices
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/
