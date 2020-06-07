@@ -40,3 +40,11 @@
 **Thoughts**: That small module is so important in todays world with all the different sized devices
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-flexbox/
+
+### Day 6: 7th June 2020 
+
+**Today's Progress**: Finished CSS Flexbox and started CSS Grid on FreeCodeCamp
+
+**Thoughts**: Some great visual editing options
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
