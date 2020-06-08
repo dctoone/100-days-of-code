@@ -48,3 +48,11 @@
 **Thoughts**: Some great visual editing options
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
+
+### Day 7: 8th June 2020 
+
+**Today's Progress**: Finished CSS Grid on FreeCodeCamp
+
+**Thoughts**: Column and row numbers got me a little confused, but I think I got it now
+
+**Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
