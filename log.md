@@ -56,3 +56,11 @@
 **Thoughts**: Column and row numbers got me a little confused, but I think I got it now
 
 **Link(s) to work**: https://www.freecodecamp.org/learn/responsive-web-design/css-grid/
+
+### Day 8: 9th June 2020 
+
+**Today's Progress**: Set up my CodePen.io account and made a start on FCC tribute page project
+
+**Thoughts**: Have I learnt anything?
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
