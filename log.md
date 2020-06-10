@@ -64,3 +64,11 @@
 **Thoughts**: Have I learnt anything?
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 9: 10th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project and managed to get 8/10 tests passed before even choosing a subject
+
+**Thoughts**: Get the foundations built first
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
