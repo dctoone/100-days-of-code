@@ -72,3 +72,11 @@
 **Thoughts**: Get the foundations built first
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 10: 11th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project and managed to get 10/10 tests passed
+
+**Thoughts**: You can't remember everything, going back to the tutorials is not a bad thing
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
