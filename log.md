@@ -80,3 +80,11 @@
 **Thoughts**: You can't remember everything, going back to the tutorials is not a bad thing
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 11: 12th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, imported Google font
+
+**Thoughts**: I think I am overthinking rather than building
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
