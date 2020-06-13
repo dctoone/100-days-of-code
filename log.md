@@ -88,3 +88,11 @@
 **Thoughts**: I think I am overthinking rather than building
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 12: 13th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, managed to break it but fixed it
+
+**Thoughts**: Less is more
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
