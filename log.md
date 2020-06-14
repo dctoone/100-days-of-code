@@ -96,3 +96,11 @@
 **Thoughts**: Less is more
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 13: 14th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, started to add content
+
+**Thoughts**: Starting to look like something now
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
