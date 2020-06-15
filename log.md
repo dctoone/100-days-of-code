@@ -104,3 +104,11 @@
 **Thoughts**: Starting to look like something now
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 14: 15th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, solved a problem I couldn't solve yesterday
+
+**Thoughts**: Small changes make a big difference
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
