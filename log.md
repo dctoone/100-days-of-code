@@ -112,3 +112,11 @@
 **Thoughts**: Small changes make a big difference
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 15: 16th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, headings and image sorted
+
+**Thoughts**: The confidence is building
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
