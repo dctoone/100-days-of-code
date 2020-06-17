@@ -120,3 +120,11 @@
 **Thoughts**: The confidence is building
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 16: 17th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, trying and succeeding in centering an unordered list
+
+**Thoughts**: Tweaking the code is getting easier
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
