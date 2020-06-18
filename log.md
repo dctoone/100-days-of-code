@@ -133,6 +133,6 @@
 
 **Today's Progress**: Continued with FCC tribute page project, tweaking and filling out the timeline
 
-**Thoughts**: Seeing the finishing line on this project
+**Thoughts**: Seeing the finish line on this project
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
