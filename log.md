@@ -136,3 +136,11 @@
 **Thoughts**: Seeing the finish line on this project
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 18: 19th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, timeline finished and quote added
+
+**Thoughts**: Learning through projects works
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
