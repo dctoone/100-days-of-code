@@ -144,3 +144,11 @@
 **Thoughts**: Learning through projects works
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 19: 20th June 2020 
+
+**Today's Progress**: Continued with FCC tribute page project, quote formatting finally sorted
+
+**Thoughts**: Tweak, check and repeat
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
