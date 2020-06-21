@@ -152,3 +152,11 @@
 **Thoughts**: Tweak, check and repeat
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 20: 21st June 2020 
+
+**Today's Progress**: Finished FCC tribute page project, tests 10/10 and submitted
+
+**Thoughts**: If you can complete one project, you can complete another
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
