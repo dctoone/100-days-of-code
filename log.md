@@ -160,3 +160,11 @@
 **Thoughts**: If you can complete one project, you can complete another
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/xxZwzge
+
+### Day 21: 22nd June 2020 
+
+**Today's Progress**: Started FCC survey form project, getting basic layout started
+
+**Thoughts**: Build on previous project experience
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
