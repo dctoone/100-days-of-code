@@ -168,3 +168,11 @@
 **Thoughts**: Build on previous project experience
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 22: 23rd June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, got 12/17 tests passed
+
+**Thoughts**: It really does get easier
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
