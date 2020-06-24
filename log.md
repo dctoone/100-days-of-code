@@ -176,3 +176,11 @@
 **Thoughts**: It really does get easier
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 23: 24th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, got 15/17 tests passed
+
+**Thoughts**: Dropdowns can be temperamental
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
