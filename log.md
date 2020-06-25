@@ -184,3 +184,11 @@
 **Thoughts**: Dropdowns can be temperamental
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 24: 25th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, radio buttons layout sorted
+
+**Thoughts**: Getting there, one day at a time
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
