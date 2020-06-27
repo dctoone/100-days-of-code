@@ -192,3 +192,11 @@
 **Thoughts**: Getting there, one day at a time
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 25: 27th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project
+
+**Thoughts**: Getting there, slowly but surely
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
