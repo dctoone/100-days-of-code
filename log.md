@@ -200,3 +200,11 @@
 **Thoughts**: Getting there, slowly but surely
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 26: 28th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, got 16/17 tests completed
+
+**Thoughts**: Satisfying when you get another test passing
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
