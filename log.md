@@ -208,3 +208,11 @@
 **Thoughts**: Satisfying when you get another test passing
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 27: 29th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, checkboxes done, 17/17 tests completed
+
+**Thoughts**: Satisfying when you get all tests passing
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
