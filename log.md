@@ -216,3 +216,11 @@
 **Thoughts**: Satisfying when you get all tests passing
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 28: 30th June 2020 
+
+**Today's Progress**: Continued with FCC survey form project, started the CSS
+
+**Thoughts**: Keep it simple but looking nice
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
