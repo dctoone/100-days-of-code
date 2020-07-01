@@ -224,3 +224,11 @@
 **Thoughts**: Keep it simple but looking nice
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 29: 1st July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, CSS background image fighting
+
+**Thoughts**: Follow a YT tutorial but still doesn't work :-(
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
