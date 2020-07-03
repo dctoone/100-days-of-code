@@ -232,3 +232,11 @@
 **Thoughts**: Follow a YT tutorial but still doesn't work :-(
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 30: 3rd July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, CSS background image placed
+
+**Thoughts**: Back to the CSS tutorials on containers, I think.
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
