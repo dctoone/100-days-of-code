@@ -240,3 +240,11 @@
 **Thoughts**: Back to the CSS tutorials on containers, I think.
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 31: 4th July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, tidied up code and attempted a container
+
+**Thoughts**: Tidy code makes you happy
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
