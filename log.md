@@ -248,3 +248,11 @@
 **Thoughts**: Tidy code makes you happy
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 32: 7th July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, trying but struggling to put a form over a background image
+
+**Thoughts**: Following tutorials don't always get the results you expect
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
