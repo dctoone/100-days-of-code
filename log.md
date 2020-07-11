@@ -264,3 +264,11 @@
 **Thoughts**: A small break from a problem is not a bad thing
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 34: 11th July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, form is readable over background image
+
+**Thoughts**: Starting to look like the finished article
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
