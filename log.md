@@ -272,3 +272,11 @@
 **Thoughts**: Starting to look like the finished article
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 35: 14th July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, organised form headings and boxes into different classes
+
+**Thoughts**: Fresh eyes, new perspective
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
