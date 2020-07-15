@@ -280,3 +280,13 @@
 **Thoughts**: Fresh eyes, new perspective
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 36: 15th July 2020 
+
+**Today's Progress**: Continued with FCC survey form project, started styling form objects
+
+**Thoughts**: Nearly there
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+
