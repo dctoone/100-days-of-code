@@ -289,4 +289,10 @@
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
 
+### Day 37: 20th July 2020 
 
+**Today's Progress**: Continued with FCC survey form project, trying to get it to look right
+
+**Thoughts**: I guess you can't fiddle too much
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
