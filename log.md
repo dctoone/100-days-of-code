@@ -301,7 +301,7 @@
 
 **Today's Progress**: Finished the FCC survey form project, tests passed and submitted
 
-**Thoughts**: A few fustrating tweaks and it looks how I want it
+**Thoughts**: A few frustrating tweaks and it looks how I want it
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
 
