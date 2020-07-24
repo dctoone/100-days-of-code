@@ -293,6 +293,15 @@
 
 **Today's Progress**: Continued with FCC survey form project, trying to get it to look right
 
-**Thoughts**: I guess you can't fiddle too much
+**Thoughts**: I guess you can fiddle too much
 
 **Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
+### Day 38: 24th July 2020 
+
+**Today's Progress**: Finished the FCC survey form project, tests passed and submitted
+
+**Thoughts**: A few fustrating tweaks and it looks how I want it
+
+**Link(s) to work**: https://codepen.io/dctoone/pen/OJMpWJd
+
